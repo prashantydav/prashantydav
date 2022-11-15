@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashantydav
 - 👀 I’m interested in ..ML/AI
-- 🌱 I’m currently learning ..Deep Learning
+- 🌱 I’m currently learning ..MLOps
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yruprashant@gmail.com
 
